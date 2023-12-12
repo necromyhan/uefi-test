@@ -1,0 +1,7 @@
+## @file  TestPkg.dec
+
+[Defines]
+  DEC_SPECIFICATION              = 0x00010005
+  PACKAGE_NAME                   = TestPkg
+  PACKAGE_GUID                   = AE7DEA82-3392-44D9-9C1A-D2C8051A02E3
+  PACKAGE_VERSION                = 0.1

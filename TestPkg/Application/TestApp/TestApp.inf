@@ -1,0 +1,12 @@
+## @file TestApp.inf
+
+[Defines]
+  INF_VERSION                    = 0x00010005
+  BASE_NAME                      = TestApp
+  FILE_GUID                      = CC88B740-7CE2-4C63-9F0F-57CBC0633CF2
+  MODULE_TYPE                    = UEFI_APPLICATION
+  VERSION_STRING                 = 1.0
+  ENTRY_POINT                    = UefiMain
+
+[Sources]
+  TestApp.c
